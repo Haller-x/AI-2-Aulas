@@ -17,6 +17,7 @@
 - [Modelos de Agrupamento/Clusterização](https://github.com/ai2-education-fiep-turma-2/14-aprendizagem-estatistica-agrupamento)
 
 ## Conteúdo extra:
+- [Data Science Pathway](https://github.com/Haller-x/DataSciencePathway)
 - [Comandos Git](https://wethefoss.github.io/Git-Commands)
 - [Data Mining and Analysis Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookDownload)
 - [Time Series manipulation - Pandas](https://towardsdatascience.com/basic-time-series-manipulation-with-pandas-4432afee64ea)
