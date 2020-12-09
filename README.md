@@ -1,4 +1,4 @@
-# Ai2 - Aulas
+# AI2 - Aulas
 
 ## Conteúdos:
 - [Linux](https://github.com/ai2-education-fiep-turma-2/01-linux)
