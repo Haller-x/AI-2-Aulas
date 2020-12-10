@@ -15,6 +15,7 @@
 - [Modelos de classificação](https://github.com/ai2-education-fiep-turma-2/12-classificacao)
 - [Modelos de regressão](https://github.com/ai2-education-fiep-turma-2/13-Aprendizagem-estatistica-regressao)
 - [Modelos de Agrupamento/Clusterização](https://github.com/ai2-education-fiep-turma-2/14-aprendizagem-estatistica-agrupamento)
+- [Redes neurais - Teoria](https://raphaelmcobe.github.io/dataSanJose2019_nn_presentation/#/)
 
 ## Conteúdo extra:
 - [Data Science Pathway](https://github.com/Haller-x/DataSciencePathway)
