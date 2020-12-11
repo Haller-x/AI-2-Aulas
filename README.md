@@ -37,3 +37,4 @@
 - [Ridge Regression for Better Usage](https://towardsdatascience.com/ridge-regression-for-better-usage-2f19b3a202db)
 - [7 Classical Assumptions of Ordinary Least Squares (OLS) Linear Regression](https://statisticsbyjim.com/regression/ols-linear-regression-assumptions)
 - [Having an Imbalanced Dataset? Here Is How You Can Fix It](https://towardsdatascience.com/having-an-imbalanced-dataset-here-is-how-you-can-solve-it-1640568947eb?gi=644ff1ac6857)
+- [What is Deep Learning?](https://machinelearningmastery.com/what-is-deep-learning/)
