@@ -38,3 +38,4 @@
 - [7 Classical Assumptions of Ordinary Least Squares (OLS) Linear Regression](https://statisticsbyjim.com/regression/ols-linear-regression-assumptions)
 - [Having an Imbalanced Dataset? Here Is How You Can Fix It](https://towardsdatascience.com/having-an-imbalanced-dataset-here-is-how-you-can-solve-it-1640568947eb?gi=644ff1ac6857)
 - [What is Deep Learning?](https://machinelearningmastery.com/what-is-deep-learning/)
+- [6 Tricks to prevent overfitting in machine learning](https://hackernoon.com/memorizing-is-not-learning-6-tricks-to-prevent-overfitting-in-machine-learning-820b091dc42)
