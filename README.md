@@ -17,6 +17,10 @@
 - [Modelos de Agrupamento/Clusterização](https://github.com/ai2-education-fiep-turma-2/14-aprendizagem-estatistica-agrupamento)
 - [Redes neurais - Teoria](https://raphaelmcobe.github.io/dataSanJose2019_nn_presentation/#/)
 
+## Preparando o ambiente (PyTorch e TensorFlow):
+- [Preparando ambiente com PyTorch](https://github.com/Haller-x/AI-2-Aulas/blob/main/env/easy-torch.ipynb)
+- [Preparando ambiente com TensorFlow](https://github.com/Haller-x/AI-2-Aulas/blob/main/env/easy-tensorflow.ipynb)
+
 ## Conteúdo extra:
 - [Data Science Pathway](https://github.com/Haller-x/DataSciencePathway)
 - [Comandos Git](https://wethefoss.github.io/Git-Commands)
@@ -39,3 +43,6 @@
 - [Having an Imbalanced Dataset? Here Is How You Can Fix It](https://towardsdatascience.com/having-an-imbalanced-dataset-here-is-how-you-can-solve-it-1640568947eb?gi=644ff1ac6857)
 - [What is Deep Learning?](https://machinelearningmastery.com/what-is-deep-learning/)
 - [6 Tricks to prevent overfitting in machine learning](https://hackernoon.com/memorizing-is-not-learning-6-tricks-to-prevent-overfitting-in-machine-learning-820b091dc42)
+
+## Problemas ao carregar?
+- [Use o Notebook Viewer](https://nbviewer.jupyter.org/)
