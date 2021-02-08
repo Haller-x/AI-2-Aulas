@@ -44,5 +44,5 @@
 - [What is Deep Learning?](https://machinelearningmastery.com/what-is-deep-learning/)
 - [6 Tricks to prevent overfitting in machine learning](https://hackernoon.com/memorizing-is-not-learning-6-tricks-to-prevent-overfitting-in-machine-learning-820b091dc42)
 
-## Problemas ao carregar?
+## Problemas ao carregar os notebooks no github?
 - [Use o Notebook Viewer](https://nbviewer.jupyter.org/)
