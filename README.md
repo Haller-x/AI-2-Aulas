@@ -17,6 +17,7 @@
 - [Modelos de Agrupamento/Clusterização](https://github.com/ai2-education-fiep-turma-2/14-aprendizagem-estatistica-agrupamento)
 - [Redes neurais - Teoria](https://raphaelmcobe.github.io/dataSanJose2019_nn_presentation/#/)
 - [Deep Learning](https://github.com/ai2-education-fiep-turma-2/15-DeepLearning)
+- [Processamento de imagens](https://github.com/ai2-education-fiep-turma-2/16-processamento-de-imagem)
 
 ## Preparando o ambiente (PyTorch e TensorFlow):
 - [Preparando ambiente com PyTorch](https://github.com/Haller-x/AI-2-Aulas/blob/main/env/easy-torch.ipynb)
