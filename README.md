@@ -19,6 +19,7 @@
 - [Deep Learning](https://github.com/ai2-education-fiep-turma-2/15-DeepLearning)
 - [Processamento de imagens - OpenCV](https://github.com/ai2-education-fiep-turma-2/16-processamento-de-imagem)
 - [Deep Learning - CNN](https://github.com/ai2-education-fiep-turma-2/17-CNN)
+- [Deep Learning - Processamento de sequências](https://github.com/ai2-education-fiep-turma-2/18-processamento-de-sequencias)
 
 ## Preparando o ambiente (PyTorch e TensorFlow):
 - [Preparando ambiente com PyTorch](https://github.com/Haller-x/AI-2-Aulas/blob/main/env/easy-torch.ipynb)
